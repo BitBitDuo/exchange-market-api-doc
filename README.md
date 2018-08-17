@@ -2,7 +2,7 @@
 # Market APIs 
 ### APIs for Market software, not for traders
 
-URL：http://market.bitbitduo.com/
+URL：http://example.com/
 
 
 APIs:
@@ -11,7 +11,7 @@ APIs:
 
 Get /list
 
-eg: http://market.bitbitduo.com/list
+eg: http://example.com/list
 
 Response：
 
@@ -35,7 +35,7 @@ Response：
 
 Get /depth
 
-eg: http://market.bitbitduo.com/depth?market=BBD/ETH
+eg: http://example.com/depth?market=BBD/ETH
 
 Response：
 
