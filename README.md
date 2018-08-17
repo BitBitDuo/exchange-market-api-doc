@@ -67,7 +67,7 @@ Response：
 
 Get /deals
 
-eg: http://example.com/deals?market=BBD/ETH
+eg: https://example.com/deals?market=BBD/ETH
 
 Response：
 
